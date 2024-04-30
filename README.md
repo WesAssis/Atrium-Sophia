@@ -23,7 +23,3 @@ Sophia é projetada para ser fácil de usar, com uma interface intuitiva e dashb
 ## Melhorias Futuras
 
 Sophia continuará a evoluir para melhor atender às necessidades das Consultoras de Beleza. Isso inclui a adição de análise de sentimento, recomendações de produtos e integração com mídias sociais.
-
-## Entre em Contato
-
-Para mais informações sobre Sophia, por favor, entre em contato conosco através do email: contato@sophia.com
